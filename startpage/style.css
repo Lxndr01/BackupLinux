@@ -1,0 +1,43 @@
+.container {
+  width: 720px;
+  height: 500px;
+  position: relative;
+}
+
+#myInput {
+  display: flex;
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  height: 50px;
+  width: 600px;
+}
+
+#work {
+  display: flex;
+  position: absolute;
+  left:35% ;
+  top: 70%;
+  list-style-type: none;
+}
+
+#social {
+  display: flex;
+  position: absolute;
+  left: 50%;
+  top: 70%;
+}
+
+#github{
+  position: relative;
+}
+
+#gmail {
+    position: relative;
+    top: 30px;
+}
+
+li{
+  position: relative;
+  top: 10px;
+}

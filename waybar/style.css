@@ -17,6 +17,11 @@ window#waybar.hidden {
     opacity: 0.0;
 }
 
+.custom-logo {
+  background-image: url("~/Photos/lain.png");
+}
+
+
 .custom-spotify {
     padding: 0 10px;
     margin: 0 4px;
